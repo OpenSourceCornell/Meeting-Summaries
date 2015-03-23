@@ -7,3 +7,7 @@ Also, we will put things that we are planning to discuss on the document for the
 ## How to contribute
 
 The simplest way would be to use the browser-based editor that Github provides.  So just click on the document you want to modify, then click the little pen sign on the upper right corner, and start editing.
+
+## When
+
+As of right now (2015/03/22), we hold our meetings every Monday at 6:15 pm in Gates 416, while school is in session
